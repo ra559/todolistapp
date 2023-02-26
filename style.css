@@ -13,7 +13,7 @@ body {
 
 header {
     padding-top: 5%;
-    font-size: 2rem;
+    font-size: 1rem;
     padding-bottom: 2%;
 }
 
@@ -21,7 +21,7 @@ header {
 /*Center the content*/
 header,
 form {
-    min-height: 5vh;
+   /* min-height: 5vh;*/
     display: flex;
     justify-content: center;
     align-self: center;
@@ -34,7 +34,9 @@ form button {
     border: none;
     background: whitesmoke;
 }
-
+form input{
+    width: 30%;
+}
 form button{
     color: #272420;
     background-color: whitesmoke;
@@ -135,4 +137,7 @@ select{
 .select:hover::after{
     background-color: #e9e9ed;
     color: #964B6B;
+}
+ol, ul{
+    padding-left: 0;
 }
