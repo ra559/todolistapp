@@ -9,3 +9,10 @@
 * Font: [Google Fonts](https://fonts.google.com/) 
 * Color Palltte: [Coolors.co](https://coolors.co/palette/231f21-272420-231f20-68b1a0-241f20-221e1f-432432-6a477d-231f21-964b6b)
   
+  
+## Taking it Further:
+[ ] Add Google sign in
+[ ] Add Mongo DB for storing tasks 
+[ ] Port to REACT Native
+[ ] Deploy with Heroku
+[ ] Add email collection SDK for marketing (Sendgrid or Sparkpost)
