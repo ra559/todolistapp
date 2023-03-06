@@ -11,8 +11,8 @@
   
   
 ## Taking it Further:
-[ ] Add Google sign in
-[ ] Add Mongo DB for storing tasks 
-[ ] Port to REACT Native
-[ ] Deploy with Heroku
-[ ] Add email collection SDK for marketing (Sendgrid or Sparkpost)
+* [] Add Google sign in
+* [] Add Mongo DB for storing tasks 
+* [] Port to REACT Native
+* [] Deploy with Heroku
+* [] Add email collection SDK for marketing (Sendgrid or Sparkpost)
