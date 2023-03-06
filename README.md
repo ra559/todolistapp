@@ -16,3 +16,8 @@
 * [ ] Port to REACT Native
 * [ ] Deploy with Heroku
 * [ ] Add email collection SDK for marketing (Sendgrid or Sparkpost)
+* [ ] scheduling task, (Need to research)
+* [ ] notifications, (integrate a serviceworjer)
+* [ ] overdue, (Maybe store the time and use internal clock)
+* [ ] inviting others to the task, (Collaboration)
+* [ ] adding locations (Geoloaction API)
